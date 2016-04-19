@@ -3,7 +3,7 @@
 ## Factsheet
 
 **Developer:**  
-[Syndicate Atomic](http://ectoplaza.github.io/testrepo/)
+[Syndicate Atomic](http://ectoplaza.github.io/testrepo)
 Based in Los Angeles, CA
 
 **Founding date:**  
