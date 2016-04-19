@@ -75,10 +75,5 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
-[facebook]: https://facebook.com/companyname
-[skype]: callto:companyskypename
-
-<!--- Projects  -->
-
-[example_project]: projects/exampleproject/
+[twitter.com/ectoplaza][twitter.com/ectoplaza]
+[facebook.com/ectoplaza][facebook.com/ectoplaza]  
