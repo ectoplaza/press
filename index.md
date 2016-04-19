@@ -16,7 +16,7 @@ October, 2015
 [mike@syndicateatomic.com][contact]
 
 **Social:**  
-<twitter.com/ectoplaza>
+<https://twitter.com/ectoplaza>
 [facebook.com/ectoplaza](https://facebook.com/ectoplaza)  
 
 ## Description
@@ -61,7 +61,7 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [press-contact@company.com][contact]
 
 **Twitter**  
-<twitter.com/ectoplaza>
+<https://twitter.com/ectoplaza>
 
 **Facebook**  
 [facebook.com/ectoplaza](https://facebook.com/ectoplaza)  
@@ -75,5 +75,5 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 <!--- Social -->
 
-<twitter.com/ectoplaza>
+<https://twitter.com/ectoplaza>
 [facebook.com/ectoplaza](https://facebook.com/ectoplaza)
