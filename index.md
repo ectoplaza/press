@@ -4,8 +4,6 @@
 
 **Developer:**  
 [Syndicate Atomic](https://ectoplaza.github.io/testrepo)
-
-
 Based in Los Angeles, CA
 
 **Founding date:**  
