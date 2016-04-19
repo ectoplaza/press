@@ -40,7 +40,7 @@ download all screenshots as ** [.zip (668 KB)](assets/images/images.zip "Images 
 [![image_03_name](assets/images/image_03.png)](assets/images/image_03.png)
 [![image_04_name](assets/images/image_04.png)](assets/images/image_04.png)
 
-## Logos
+## Logo & Icon
 
 download logo files as ** [.zip (668 KB)]( assets/images/logo.zip "Logo & Icon zip") **
 
