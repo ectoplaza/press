@@ -77,7 +77,3 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 [twitter]: https://twitter.com/ectoplaza
 [facebook]: https://facebook.com/ectoplaza
-
-<!--- Projects  -->
-
-[example_project]: projects/exampleproject/
