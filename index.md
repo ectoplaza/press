@@ -1,63 +1,37 @@
-# ![Company Name](assets/images/header.png)
+# ![EctoPlaza](assets/images/header.png)
 
 ## Factsheet
 
 **Developer:**  
-Company Name
+[Syndicate Atomic][Syndicate Atomic Link]
+Based in Los Angeles, CA
 
 **Founding date:**  
-January 1, 2015
+October, 2015
 
 **Website:**  
-[companydomain.com][homepage]
+[ectoplaza.com][homepage]
 
 **Press / Business contact:**  
-[press-contact@company.com][contact]
+[mike@syndicateatomic.com][contact]
 
 **Social:**  
-[twitter.com/companyname][twitter]  
-[facebook.com/companyname][facebook]  
-[Skype](callto:companyskypename)
-
-**Releases:**  
-[exampleproject][example_project]
-
-**Address:**  
-Line 1  
-Line 2  
-Line 3
-
-**Phone:**  
-+00 (1) 22 33 44 55
+[twitter.com/ectoplaza][twitter]  
+[facebook.com/ectoplaza][facebook]  
 
 ## Description
 
-Stuff about the studio. Talk about yourselves in the third person!
+EctoPlaza is a competitive smash 'em up where you fling, dodge, and ground pound through haunted halls and ghostly friends to achieve victory. EctoPlaza's everlasting guests have developed a bad case of cabin fever, rocketing off the walls, into each other, and through priceless furniture. Mastering multi-tiered charge fling systems and unique character abilities is the key to sending friends and their ghosts flying. Be our ghastly guests and have the time of your afterlife!
 
-## History
+### History
 
-### Beginning
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Second subhed if you want it!
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Projects
-
-* [exampleproject][example_project]
+EctoPlaza was originally pitched and accepted into the 2015 Dare to be Digital game-making competition held by Abertay University. Drawing crowds of all ages, EctoPlaza won ProtoPlay's Audience Choice Award and was subsequently picked as an "Official Select" for IndieCade 2016. Slated for release on the Wii U 2016, EctoPlaza will be the debut game for Syndicate Atomic.
 
 ## Videos
 
-We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=WB0yAm6iXEw "Gunhouse Trailer on Youtube")  
+We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=bNQkIfzK4Uw "EctoPlaza Test Trailer")  
 
-<iframe src="//www.youtube.com/embed/WB0yAm6iXEw" frameborder="0" allowfullscreen></iframe>
-
-<br>
-
-This is some music from our games! [Yeah, you like it I think](http://www.youtube.com/watch?v=hxQAUADFCzw "Motohiro Kawashima live")
-<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
+< src="//www.youtube.com/embed/bNQkIfzK4Uw" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
@@ -77,40 +51,9 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 ## Awards & Recognition
 
-> * "Winner, XX awards." - *game name, December 13, 2013*
-> * "Nominee, YY awards." - *game name, December 13, 2013*
+> * "Dare To Be Digital Audience Choice Award" - *2015*
+> * "IndieCade Official Select" - *2015*
 
-## Selected Articles
-
-> * "Quote quote quote."  
--- *Person Name, [Website](http://www.website.com/)*
-
-
-> * "More quotes."  
--- *Person name, [Site](http://geocities.blog.com/)*
-
-
-## Additional Links
-
-**Company Link #1**  
-Link to your company, or some affiliate. Located [here](https://link)
-
-**Company Link #2**  
-Another of these. See [here](https://link)
-
-## Team & Repeating Collaborator
-
-**Probably the founder's name goes here**  
-[Founder](https://link)
-
-**Another person's name**  
-[developer maybe](https://link)
-
-**Another person, show em if you've got em**  
-[artist, who knows](https://link)
-
-**A fourth person**  
-[music, sound?](https://link)
 
 ## Contact
 
@@ -120,11 +63,8 @@ Another of these. See [here](https://link)
 **Twitter**  
 [twitter.com/companyname][twitter]
 
-** Facebook**  
+**Facebook**  
 [facebook.com/companyname][facebook]
-
-**Web**  
-[companydomain.com][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
