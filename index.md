@@ -41,7 +41,7 @@ EctoPlaza was originally pitched and accepted into the 2015 Dare to be Digital g
 
 ## Images
 
-download all screenshots as ** [.zip (26.2 MB)](assets/images/images.zip "Images zip") **
+download all screenshots as ** [](assets/images/images.zip "Images zip") **
 
 [![image_01_name](assets/images/image_01.png)](assets/images/image_01.png)
 [![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
