@@ -61,7 +61,7 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [press-contact@company.com][contact]
 
 **Twitter**  
-[twitter.com/ectoplaza](twitter.com/ectoplaza)
+<twitter.com/ectoplaza>
 
 **Facebook**  
 [facebook.com/ectoplaza](facebook.com/ectoplaza)  
@@ -75,5 +75,5 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 <!--- Social -->
 
-[twitter.com/ectoplaza](twitter.com/ectoplaza)
+<twitter.com/ectoplaza>
 [facebook.com/ectoplaza](facebook.com/ectoplaza)
