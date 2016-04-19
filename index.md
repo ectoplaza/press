@@ -31,7 +31,7 @@ EctoPlaza was originally pitched and accepted into the 2015 Dare to be Digital g
 
 We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=bNQkIfzK4Uw "EctoPlaza Test Trailer")  
 
-< src="//www.youtube.com/embed/bNQkIfzK4Uw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bNQkIfzK4Uw" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
