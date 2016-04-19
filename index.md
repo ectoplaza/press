@@ -69,9 +69,9 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://companydomain.com "Company Name"
+[homepage]: http://ectoplaza.com "EctoPlaza"
 
-[contact]: mailto:press-contact@company.com
+[contact]: mailto:mike@syndicateatomic.com
 
 <!--- Social -->
 
