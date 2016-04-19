@@ -58,13 +58,13 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 ## Contact
 
 **Inquiries**  
-[press-contact@company.com][contact]
+[mike@syndicateatomic.com][contact]
 
 **Twitter**  
-[twitter.com/companyname][twitter]
+[twitter.com/ectoplaza][twitter]
 
 **Facebook**  
-[facebook.com/companyname][facebook]
+[facebook.com/ectoplaza][facebook]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
