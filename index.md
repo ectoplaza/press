@@ -64,7 +64,7 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [twitter.com/ectoplaza][twitter]
 
 **Facebook**  
-[facebook.com/ectoplaza][facebook]
+
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
