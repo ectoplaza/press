@@ -16,7 +16,7 @@ October, 2015
 [mike@syndicateatomic.com][contact]
 
 **Social:**  
-[twitter.com/ectoplaza][twitter]  
+
 [facebook.com/ectoplaza][facebook]  
 
 ## Description
