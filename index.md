@@ -37,7 +37,7 @@ EctoPlaza was originally pitched and accepted into the 2015 Dare to be Digital g
 
 ## Videos
 
-EctoPlaza Teaser
+EctoPlaza Gameplay Teaser
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/wN5zOtV3leY" frameborder="0" allowfullscreen></iframe>
 
