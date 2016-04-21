@@ -33,7 +33,7 @@ EctoPlaza is a competitive smash 'em up where you fling, dodge, and ground pound
 
 ### History
 
-EctoPlaza was originally pitched and accepted into the 2015 Dare to be Digital game-making competition held by Abertay University. Drawing crowds of all ages, EctoPlaza won ProtoPlay's Audience Choice Award and was subsequently picked as an "Official Select" for IndieCade 2016. Slated for release on the Wii U 2016, EctoPlaza will be the debut game for Syndicate Atomic.
+EctoPlaza was originally pitched and accepted into the 2015 Dare to be Digital game-making competition held by Abertay University. Drawing crowds of all ages, EctoPlaza won ProtoPlay's Audience Choice Award and was subsequently picked as an "Official Select" for IndieCade 2016. Slated for release on the Wii U 2015, EctoPlaza will be the debut game for Syndicate Atomic.
 
 ## Videos
 
