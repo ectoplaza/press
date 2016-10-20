@@ -21,25 +21,28 @@ October, 2015
 
 ## Description
 
-EctoPlaza is a competitive smash 'em up where you fling, dodge, and ground pound through haunted halls and ghostly friends to achieve victory. EctoPlaza's everlasting guests have developed a bad case of cabin fever, rocketing off the walls, into each other, and through priceless furniture. Mastering multi-tiered charge fling systems and unique character abilities is the key to sending friends and their ghosts flying. Be our ghastly guests and have the time of your afterlife!
+Ectoplaza will be apparating onto the North American Wii U eShop October 27th (Europe to follow soon)!
+
+Ectoplaza is a breakneck game about irritable ghosts wreaking havoc on haunted hotels, paranormal guests, and each other.
+
+Join a party of poltergeists as they rampage through underworld-renowned resorts from which they can never escape. Monster mash with up to four players and have the time of your afterlife.
 
 ### Features
 
-* Multi-Tiered Charge & Fling System
-* Six Playable Characters & Special Abilities
-* 5 Settings & Stage Hazards
-* 15 Different Levels
-* 3 Game Modes
+* Choose from six unhappy haunts, each with their own stats and game-changing special abilities.
+* Master a multi-tiered charge & fling system to unleash quick chomps, trick shots, and devastating ricochets.
+* Smash your way through 5 settings and 15 different levels, each with different stage hazards.
+* Be the last ghost standing in Afterlives, collect the most ectoplasm in Collectoplaza, or score the winning goal in Ghostball.
 
 ### History
 
-EctoPlaza was originally pitched and accepted into the 2015 Dare to be Digital game-making competition held by Abertay University. Drawing crowds of all ages, EctoPlaza won ProtoPlay's Audience Choice Award and was subsequently picked as an "Official Select" for IndieCade 2015. Slated for release on the Wii U 2016, EctoPlaza will be the debut game for Syndicate Atomic.
+EctoPlaza was originally pitched and accepted into the 2015 Dare to be Digital game-making competition held by Abertay University. EctoPlaza won ProtoPlay's Audience Choice Award, was subsequently picked as an "Official Select" for IndieCade 2015, and was featured at Tokyo Game Show 2016's Indie Games Area. EctoPlaza will be the debut game for Syndicate Atomic.
 
 ## Videos
 
-EctoPlaza Gameplay Teaser
+Ectoplaza Release Date Trailer
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/wN5zOtV3leY" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/kWE0Zt_HmEk" frameborder="0" allowfullscreen></iframe>
 
 Nintendo Spring Partner Preview
 
@@ -53,6 +56,8 @@ download all screenshots as ** [.zip (26.2 MB)](assets/images/images.zip "Images
 [![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
 [![image_03_name](assets/images/image_03.png)](assets/images/image_03.png)
 [![image_04_name](assets/images/image_04.png)](assets/images/image_04.png)
+[![image_05_name](assets/images/image_05.png)](assets/images/image_05.png)
+[![image_06_name](assets/images/image_06.png)](assets/images/image_06.png)
 
 ## Logo & Icon
 
